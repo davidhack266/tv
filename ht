@@ -1,0 +1,43 @@
+[{
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "Canales de noticias y locales de cada pa\u00eds.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/1",
+	"string": "paises",
+	"title": "TV Pa\u00edses",
+	"type": "arg"
+}, {
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "Los eventos deportivos m\u00e1s importantes del mundo.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/2",
+	"string": "deportes",
+	"title": "Deportes",
+	"type": "none"
+}, {
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "Tus documentales e historias favoritas, aqu\u00ed.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/3",
+	"string": "cultura",
+	"title": "Cultura",
+	"type": "none"
+}, {
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "Las mejores y exclusivas pel\u00edculas y series premium.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/4",
+	"string": "cine",
+	"title": "Cine Premium",
+	"type": "unv"
+}, {
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "Contenido variado; novelas, series, pel\u00edculas y mucho m\u00e1s.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/5",
+	"string": "entretenimiento",
+	"title": "Entretenimiento",
+	"type": "variados"
+}, {
+	"agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/103.0.0.0 Safari\/537.36",
+	"description": "La maxima diversi\u00f3n para los menores de la casa.",
+	"image": "https:\/\/static.spliktv.xyz\/n\/6",
+	"string": "kids",
+	"title": "Infantiles",
+	"type": "none"
+}]
