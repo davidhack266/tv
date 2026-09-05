@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷ARGENTINA🇦🇷2",
+    "name": "🇦🇷ARGENTINA🇦🇷22",
     "mode": false,
     "lista": [
       {
@@ -1083,8 +1083,9 @@
       },
       {
         "name": "UFC Paramount op2",
-        "ico": "https://i.postimg.cc/FKbcbwxL/R-17.png",
+        "ico": "http://br2.vrx-plus.es/img/ufc.ecuador.png",
         "uri": "egPdrAXEs+Z8JZKCi4q/erAB8pDGyPTGjXkunIXS6ye2w4+v7So/kefDTVwj84C3bup4QRulZxIQvqZTzT+3Dwt28IvbFC7FxGZtCqWgSrTdD5YCdImZZtobM4OwxxGp1p1OpX1c+gHAQ4okMvBcCClhlc+doyC8l16rQXtccPsiZBllkP+2dTqarTDHkpHU",
+        "drm_scheme": "clearkey",
         "drm_license_url": "c+rx0ESpAPd0dJHKgAuxKx5KAeG3jF6HeS62P6dWd1u4PH5EpCJH1BEb6x2Zwisl",
         "User-Agent": "Chca8VWgV804+bs5SQg5qA=="
       },
